@@ -6,10 +6,16 @@ Welcome to the **Python Project Symphony**! This repository is a vibrant orchest
 
 ## 🎼 Table of Contents
 
-- [Single Python Scripts](#single-python-scripts)
-- [Folder-Based Projects](#folder-based-projects)
-- [Tools Collection](#tools-collection)
-- [Database & Data Files](#database--data-files)
+- [🎶 Python Project Symphony 🎶](#-python-project-symphony-)
+  - [🎼 Table of Contents](#-table-of-contents)
+  - [🎹 Single Python Scripts](#-single-python-scripts)
+  - [🎻 Folder-Based Projects](#-folder-based-projects)
+    - [`atm_management/`](#atm_management)
+    - [`Bank/`](#bank)
+    - [`Bank_ATM/`](#bank_atm)
+    - [`tools/`](#tools)
+  - [🎷 Database \& Data Files](#-database--data-files)
+  - [🎵 Musical Notes \& Vibes](#-musical-notes--vibes)
 
 ---
 
@@ -206,26 +212,3 @@ Each tool is a unique instrument, from password checkers to game scripts. Explor
 This repository is a symphony of Python creativity. Each file and folder is a note in the grand composition, from solo scripts to ensemble projects. Explore, remix, and let your code sing!
 
 ---
-
-## 🎤 How to Use
-
-1. **Browse the file tree** to find the project or tool you want.
-2. **Click the links** to view code and descriptions.
-3. **Run scripts** individually or explore folder-based projects for more complex applications.
-4. **Enjoy the music of code!**
-
----
-
-## 🎺 Contributing
-
-Feel free to add your own instruments (scripts) or improve the harmony (code quality). Open issues, submit pull requests, and join the orchestra!
-
----
-
-## 🎻 License
-
-This project is open source. Play, remix, and share!
-
----
-
-_Let the code play on!_ 🎶
